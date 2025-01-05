@@ -1,2 +1,6 @@
 What is the square root of 4?,16,32,48,90,A
 What is 2 + 2?,2,3,4,5,C  
+If a stock drops to 80% from initial price and later drops to 90% from initial price. How much did it dropped from 80% to 90%?, 10%,20%,50%,5%,C
+What would you do if a stock is below a strong high?,Sell,Buy,Wait for sweep higher before entering short,None,C
+Who is the best trader with over 95% accuracy in India?,Sunil Minglani,Trader Paradise,Pushpendra Singh Digital,Aman Paliwal,D
+Would a person who knows trading be selling courses?,Yes,No,Maybe to increases his cash flow and capital,None,C
